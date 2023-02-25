@@ -2,13 +2,16 @@
 ___
 ## Im Majd Alomari
 I am 19 years old and finished high school
-I am studying at the Programming Academy in **Orange** ^zarqa^ to become a *web developer* 
-___
+I am studying at the Programming Academy in **Orange** to become a *web developer* 
+____
 ### My skills
 * **Analytical**
 * **Creative thinking**
 * **I learn quickly**
 * **Flexibility at work** 
+###speak 
+1.Arabic (basic language)
+2.English (good)
 ________
 
 | The site | My links|
