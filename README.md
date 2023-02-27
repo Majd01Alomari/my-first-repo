@@ -23,4 +23,8 @@ ________
 |Github|https://github.com/Majd01Alomari
 
 [My CV](https://drive.google.com/file/d/1oBav4hxqJZTEKCpBLzHVAQakBp7kI4p7/view?usp=sharing)
-![cv](https://cdn-icons-png.flaticon.com/512/2666/2666421.png)
+![cv]
+
+- ## This project is a sample (wireframe and mockup) educational website
+## In this project I used figma and some different sites 
+# project : https://www.figma.com/file/z4sGtFaxDNiSfQMPBo99dV/Untitled?node-id=0%3A1&t=MkXwDDw4rxiIRljl-1
