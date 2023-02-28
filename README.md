@@ -28,5 +28,3 @@ ________
 - ## This project is a sample (wireframe and mockup) educational website
 ## In this project I used figma and some different sites 
 # project : https://www.figma.com/file/z4sGtFaxDNiSfQMPBo99dV/Untitled?node-id=0%3A1&t=MkXwDDw4rxiIRljl-1
-
-MMM
